@@ -2,8 +2,6 @@
     "name": "user/zdelana_na_sng",
     "license": "MIT",
     "minimum-stability": "alpha",
-    "require": {
-    },
     "autoload": {
         "psr-4": {
             "Sng\\Router\\": "lib/"
